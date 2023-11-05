@@ -1,3 +1,6 @@
+# CRSatellite
+## Developed for the 2023 CASSINI Hackaton
+
 💎 **Idea**
 
 In recent years, there has been an increase in the number of natural disasters due to the **increasing effects of climate change** , including floods, landslides and wildfires. These disasters disrupt the **logistical operations of emergency services,** significantly **increase** their **response time** ,and **reduce availability**. Our solution provides civil protection services with **real-time updates on road conditions** and optimal routes to reach their designated destinations. Our software uses information related to areas affected by natural disasters, such as floods and wildfires, provided by the Copernicus Emergency Management Service ( **Copernicus EMS** ), correlating them with road maps and checking for possible road blockages.
